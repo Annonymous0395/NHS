@@ -4,4 +4,7 @@ You are required to detect and capture the License plates of the passing vehicle
 ## HOW TO USE:
 clone repo https://github.com/Annonymous0395/NHS  
 cd code  
-use s to save and esc to quit
+use s to save and esc to quit  
+## STUDENT DETAILS
+## FATOKI PAUL REMILEKUN
+## CLU200203-644
